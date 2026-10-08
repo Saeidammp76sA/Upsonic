@@ -1,1 +1,10 @@
-(empty)
+# Compiled files
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Data and Database artifacts (typically generated or local state)
+data/*.db
